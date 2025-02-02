@@ -63,7 +63,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"title\": \"Mouse Gamer\",\r\n  \"description\": \"Mouse óptico de alta precisión\",\r\n  \"code\": \"MOUSE123\",\r\n  \"price\": 50,\r\n  \"stock\": 10,\r\n  \"category\": \"Accesorios\",\r\n  \"thumbnails\": [\"url_imagen.jpg\"]\r\n}",
+					"raw": "{\r\n  \"title\": \"Chinchulines\",\r\n  \"description\": \"Chinchulines de cerdo\",\r\n  \"code\": \"MORC01222\",\r\n  \"price\": 500,\r\n  \"stock\": 10,\r\n  \"category\": \"Tripas\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
