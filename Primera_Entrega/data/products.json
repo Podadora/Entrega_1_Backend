@@ -140,13 +140,13 @@
     "status": true
   },
   {
-    "id": 16,
-    "title": "Chinchulines",
-    "description": "Chinchulines de cerdo",
-    "code": "MORC01222",
-    "price": 500,
-    "stock": 10,
-    "category": "Tripas",
-    "status": true
+    "id": 17,
+    "title": "Carnecita",
+    "price": 500
+  },
+  {
+    "id": 18,
+    "title": "aa",
+    "price": -10
   }
 ]

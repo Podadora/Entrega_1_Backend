@@ -19,6 +19,8 @@
   "homepage": "https://github.com/Podadora/Entrega_1_Backend#readme",
   "keywords": [],
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "express-handlebars": "^8.0.1",
+    "socket.io": "^4.8.1"
   }
 }
